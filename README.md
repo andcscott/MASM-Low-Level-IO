@@ -1,2 +1,13 @@
 # MASM-Low_Level_IO
-Low Level I/O with String Primitives and Macros
+
+This program was my final project for **CS 271 - Computer Architecure and
+Assembly Lanuage** at Oregon State University. It uses string primitives, macros
+and procedures to perform low level I/O operations.
+
+## Program Description
+
+The program asks for 10 signed integers from the user as strings. The strings
+are converted from ASCII to SDWORDs and stored in an array. Then, their sum,
+and the truncated average are calculated. Finally, all numbers entered by the
+user as well as the results are converted back to their ASCII representations
+and printed as strings.

@@ -2,7 +2,7 @@
 
 This program was my final project for **CS 271 - Computer Architecure and
 Assembly Lanuage** at Oregon State University. It uses string primitives, macros
-and procedures to perform low level I/O operations.
+and procedures to perform low level I/O operations in x86 Assembly.
 
 ## Program Description
 

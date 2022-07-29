@@ -1,10 +1,7 @@
 # MASM-Low_Level_IO
 
-This program was my final project for **CS 271 - Computer Architecure and
-Assembly Lanuage** at Oregon State University. It uses string primitives, macros
+This program uses string primitives, macros
 and procedures to perform low level I/O operations in x86 Assembly.
-
-## Program Description
 
 The program asks for 10 signed integers from the user as strings. The strings
 are converted from ASCII to SDWORDs and stored in an array. Then, their sum,
